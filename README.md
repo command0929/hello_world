@@ -5,6 +5,10 @@ Hello, world!
 ```typescript
 console.log("Hello, world!");
 ```
+# lua
+```lua
+print("Hello, world!")
+```
 # java
 ```java
 public class HelloWorld {
