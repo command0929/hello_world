@@ -1,5 +1,4 @@
-Hello, world!
-=
+> # Hello, world!
 
 # typescript
 ```typescript
@@ -24,4 +23,28 @@ console.log("Hello, world!");
 # python
 ```python
 print("Hello, world!")
+```
+
+> # system Out
+
+# typescript
+```typescript
+process.exit();
+```
+# lua
+```lua
+os.exit();
+```
+# java
+```java
+System.exit(0);
+```
+# javascript
+```javascript
+process.exit();
+```
+# python
+```python
+import sys
+sys.exit()
 ```
